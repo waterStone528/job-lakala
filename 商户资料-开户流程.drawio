@@ -1,1 +1,389 @@
-<mxfile host="www.draw.io" modified="2019-10-09T11:53:12.149Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="579d0lrlKq-Ysqt07VkE" version="12.0.3" type="github" pages="3"><diagram id="_RE_5iFHfkcYcvLPGnha" name="个人会员">7Zpdb+I4FIZ/jS9bxfnOZQJhd6sZaaRKO7tXI5eYJNOAkTEF5tfvseOQhARKZ2lTplNVqn1iO8bveexzXJA1mm//4GSZfWYJLZBpJFtkjZFpYuyZ8EdadqXFNYzSkPI80Y1qw33+g2pj1WydJ3TVaigYK0S+bBunbLGgU9GyEc7Zpt1sxor2W5ckpR3D/ZQUXevXPBFZafVNr7b/SfM0q96M3aB8MidVY/1JVhlJ2KZhsmJkjThjoizNtyNayMWr1qXsNznydD8xThfinA6fNpto/Jg+/pXdEevr5yy7+/vuxtJzE7vqA9MEPr+uMi4ylrIFKeLaGnG2XiRUjmpArW7zibElGDEYv1MhdlpMshYMTJmYF/opTJjv/pH9b52q+q8eTlXG21Zt16x9oTyfU0G5NpYfQM766Lpo04qt+ZSeWIzKvwhPqTjRztyrB25PGcyG76AfpwUR+VN7HkT7X7pvV0sEBa3SCxTT4z6RYq3fhGIfRQbyLRR7KLBR6KPYRpGPwlAVQvkrCyMUQMFBAUaBLwtg8Q0Uu8iHETxViFHoyEf+BIVd56illzpuslzQ+yVRi7oB/tsyk4cVK9aChnyqXUFZ65oN1ZXg7HGPlrkX9IlyQbenJe1KoDvALlN20ZuOraubmmBc7UNZk97KeHHVnGE5a1FWQ3eEswsiZZ6JlD0kUqbVwxRgYqDQ7egGXinay8zpKv9BHlQDuXxLli+EmqMTIWcsfb7I0wUYprB+cuOKpHfncMiE+sE8TxKleUEeaBGR6WOq1B+xgnH1Xmumfk7xoY9APZP64Gnqdtw5j8J0Y9wagRG0gNJvPFsePfgXuTKNJmw2W4FbHOq3n8PPS+oNwdsA3LiDcmP3cOPKsyWcfARuvGe5cV3vurgxTyi63xLjAPkQIYxlvBGNURiryAGMkWo8UvGGCiFkUOGhEIITrB6pMnQPysAjkCGKP5IBDIzv447TdKODhv9AQL2U7ebbVOYet7OCbaYZ4eI2odN8lbPFkRjlFSIM0xo8xMDd5XvLGAMPFmPYb7RXqq4h52TXaKA3rS6r2lEcs+0ojmEcKF2OeFGK+/bl3hzh2YzAl3SHdk3oL5Mj2N67IzgYFOAXJuMXBNg9E2B/yGDHPYspOBAjSRPQAeBIuOCws1DkKoKwOuzU0Rnib31Z+q9CVycDdwanC5tD4HVBTPwzMcFGvzRvw4l/JicAgwwc9wfMb3L6yXG94cnpiSeuG6X/jUh/sGfbbe0C80CSkl3d6/LZG+47pD5QQo6PXCPWGTn2nJZCN+8/Izc6yl0ja+ecW8GQ51Y18Ee9BDaPbIkNdhzchufds1O53ouvs877Z1l3HH2v5cuqX8UyocqaQ0OGLFd7weUPH4YME3W8gwuuCrvX30F/6orLDtqugnE5j9e946oW5TDRmEgaoSCZdBr5QYNkoFTnICWcnmzsu5pkSCP05bVRDRi1cpBnkL6SPOMwVn0HgGu3aUsKKo3lPxfkDhzLjbrO9FyZTcoEsZsNdrfrMr+0VK9YuoDc9g21yYP+EznglSp5uFVjo/oO0mtICdX6O0slzPU3v6z4Pw==</diagram><diagram id="afDi7HYOYn75Juvx1Z-a" name="企业会员">7Vtbd+I2EP41ekyO5av8aINpT0/bzWke2t2XPQ5WsLsGcYQIkF9fSZZv2IDJBsyleUikYSwLzXyjb0YKMAbT9S80nMd/kAinQNeiNTCGQNchdHT+R0g2SuLYbiaZ0CRSslLwnLxjJdSUdJlEeFFTZISkLJnXhWMym+Exq8lCSsmqrvZK0vpb5+EENwTP4zBtSv9OIhZnUqQ7pfxXnEzi/M0w/37TMFdW32QRhxFZVURGAIwBJYRlrel6gFOxevm6/Ln2n798fXp/+csgo/ib+dsUfXnIBhsd80jxFSiesc8dWll3wTb5euGIL5/qEspiMiGzMA1KqU/JchZhMarGe6XO74TMuRBy4b+YsY3yhXDJCBfFbJqqT/m3oJt/xPOPVt79qoaTneG61ttUe0+YJlPMMFXC7AuIWW/Z+8BiKb0FWdIx3qNnKJ8N6QTvGw8VHsGxhAmfIt3w5yhOQ5a81ScXKp+eFHql3XhDme4IM6pJvoXpUr0JBAj4GkAGCBzgmsBDIDCBPwAIygYCrqckomEBFwIXiYbQ0UBgA8RHcGQjAJ4lPkIj4BkNjyn9QRh3FScMP89DuagrHlTqtg9fFiRdMuzRsfIPKS17Ju8uGCU/CrjqhZXfMGV4/QE7N+2iRjE0BW4V3h5gLliVwaKQxdVAkQs/3Zhmv5isIbIE6A5Mnhp+qCP8oNZu5/Pgz2rBH4eUBjy7YUzuway+9hQvkvfwRSqINZ2TZMbkFC0fWEOBjzSZzLhgzBdVRD5fICHhm5ynPpgmUSQdIQ1fcOqH4x8T6RIDkhIq32u8yp99WFJbsJpJufEdNKa5F2MP2qPmam4NZ+qNna2jBn8SK1NRIa+vC+4W2+Yr5vBxi+otJu0BlpcCL32Hic8Dr5ys1fBli/3KG90DvjJn3Aew3F2vBV5oj0GLyBm4AHHSMRQUxh8CL5BkhAt9qTwAvqdYieApDvA0yW74R7LNH3czLuMCzwNoIDgRHx/Bhs80CUfFfTjvnwu96XoicqTH15SsxnFI2WOEx8kiIbMdtOdcpMXtnbLozW3uBoKjbnYlH3qf0dGA980+MufbSz/M64qOutsHnC41BegMQ73fHFy7c5LiHoShfmUwNDuxlIqE//ZdyUl4eyB5iy8qK4GkMd6tEQ/d6Z159BIpTx3xfrqYIR/1KA03FQUVUZpIUta17C3rWlsF5S19w9qrzxvZDI57uphuFu7VU58PbtgWrnfUTA9USJFITTyzTC9uu2ZqwUtLP2AzsF7wMcbJo4fekS/BXos6+TQPALCyhXKUCSTytN4Avi3hBmVar3bX7+pkw8tONjxZH7hpKMLL25Bhc4VvYUfuXArYwYLPhKk2xtqGKQ4cUU4rdq7/UXYEyswL2PHu43jip9HUzj1Np25Q+9zc026B6R2VCuDB8wzo1A80Hi6+WACd2wVgl9pbryVw2HaedEcl8Mz59gLKgld2RJi73tFnhN0uNTXHUYeFSHRRToU8mc17mmA81128K/L0fNPr/6ZTcbOyn7y96FzIOUd+PfbksfZj5UG97j/IdLccoFLu+7QSfNvZJofwSMCWNwR4rUoeUoE8h7PKdTIUO0IZ2QryPF1RVwe0fEC/luscwP415zMN+nsBkaCtGMRNNxT3PUT8DkSYL9NMW6SyIjtt3mltBvssuTXkU4HwC7FpaFKZO8VIDHhL5t0O9I7r9m1eo+WCcp+R/xounuudr76eJkm2tg5ozI5J8tH7ytZ7LPPAsZO5V/9E+1BbgtEsrLmCO7q2DF0DIcwClSCapgxCqHla9L0tiN10Pc06Z9Wad8t/0cncofxPJyP4Dw==</diagram><diagram id="jgGajqSOHff6ggjkDKV2" name="个体工商户">7VtLk9o4EP41Os6UH9iWjjaY5JDdna2p2s3uJeXBGvDGIEqIAfLrVy3L+MlrMoMZSA6J1W7LQt1f99dtBdn96foTj+aT31hMU2QZ8RrZA2RZpulZ8h+QbDKJaxiZYMyTWCsVgsfkB9XCXG2ZxHRRURSMpSKZV4UjNpvRkajIIs7Zqqr2zNLqW+fRmDYEj6MobUr/TmIxyaTY8gr5Z5qMJ/mbTZdkd6ZRrqx/yWISxWxVEtkhsvucMZFdTdd9msLm5fvyOP/6x+gl+vfpAf/12fh98edQfLnLJhue8sj2J3A6E287tTbuQmzy/aKx3D49ZFxM2JjNojQspAFny1lMYVZDjgqdL4zNpdCUwv+oEBvtC9FSMCmaiGmq78pfwTdf4fl7Jx/+o6dTg8G6MtqURw+UJ1MqKNfC7AfAqmv2PrBZWm/BlnxE9+jZ2mcjPqb75sNbj5BQokwukW/kc5ymkUheqouLtE+Pt3qF3eSFNt0JZtSLfInSpX4TCjEKDIRtFHqI9JCPUdhDAUa+ry4GiMhbDgo85DtwQRyEXRS6CGMQgk4fEV/dMhHBSrmPsFHSkRehfhwPkW83nKlwFbD7apII+jiP1H6vZLipukX0tGDpUlCfj7TrKGkx6snhQnD2fYtka+sAL5QLun6FCzRNpmexe042jw58eRhYFVHEzGPhpBxBcuGbW7nXLVgrUC2QuwOs741LfCQuTadLYDotwJSAMpDvNowp/VdU957TRfIjelIKsKdzlsyEWqITIGcA6EiT8UwKRnJTISQGgINEZj9f35gmcawcIY2eaBpEo+9j5RJ9ljKu3ms/qz/7kKRzs15JkREPGrO3F2F3xr1BDFJBmX7j0dbRkz/AzpRU2PPzQrpF3XzbNbzeom7Toh2g8mLQZXeJLq8FXS7kKn94C+hyD6HLqmawi8cW3mPPbdgMCcKSbwyA2Ega44eKh0hhoJT7KPA1IQGKIumNZEGmuqWu5eMkozEEuBDuA1OS82Oz4TJNrlHyHlkNzEFvuh5D4XT/nLLVaBJxcR/TUbJI2GwH4zkbXzE7JyzkGkOjeWxFYHpdxsbc+rdKPchB6tH7WMHRbAaoC67VLwaF1g5HOBMKrdumKOb+nAUwtD4YDNt6LU2SUpLIvwOiKIm87ivaEkBPJVQsxr823mGTznmH2Umn5N1D3s92MtSjPufRpqSgQ0oTStq8rlEzr1drM9f0bbJXX15kKzjt6e1ys3ivn3oHdLc1bFo7qQeboxhKE79XlBfX3S51nIsrP8wm0b1lxuQdyZjMbhlTW1OnicBSEpUwAygS+KIRuApvpqrrdX79Vv3y4asGwVVj0bzAlIyvMiWTIzFl7eiEnwlT5EhMSeBAP22bun6h7ASUud1nPKul6XOFsPtpNLWTT8esGtQ7M/nMV3yrzYLSqZodzQLTq1ro7uLbBdcMwGPyXqc9cKutV3NDPfDM+fYCqh7zLh9QvT1Bct9HwuMONDXn0V8LMQxxToV8Vc77BjCeD96+s2tJr/tzTvln647q9u3gMg46We65Yu2r+oOOW/Ufos/Ptvb73iwItJzCgYJmCLCVFwBep1SHlCAv4axrnQzFHijDyUcFeVmu6LMDRj5hUKl1DmD/I9czDfp7AZGgrRkkTTeAAx8Qv0MI80WZ6UIpC9XpSUddm3kgq3ttNWEILgP5xFDZQ/rLEOa5JsvXcwDJGwYdWr7lLFCXSeEjHFW3ztaN2pEKah9vnCPr55NTTu09rnvgkxTeq/9OKeq4nhsBWklcFdX6IMxiGHDQngpCuPkl6Zsms8BGVaAj195qc2qtNsd4x9Qkh8V/6sncofivUXb4Pw==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-10-29T09:42:03.416Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="IfP4wchLq59Fwpde-RRb" version="12.1.8" type="github" pages="3">
+  <diagram id="_RE_5iFHfkcYcvLPGnha" name="个人会员">
+    <mxGraphModel dx="1172" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="LwwBDkgkIhJa3WMhhJVJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LwwBDkgkIhJa3WMhhJVJ-1" target="LwwBDkgkIhJa3WMhhJVJ-2" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="LwwBDkgkIhJa3WMhhJVJ-1" value="调用个人会员开户接口" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="260" y="40" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="LwwBDkgkIhJa3WMhhJVJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LwwBDkgkIhJa3WMhhJVJ-2" target="LwwBDkgkIhJa3WMhhJVJ-4" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="LwwBDkgkIhJa3WMhhJVJ-23" value="否" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="LwwBDkgkIhJa3WMhhJVJ-5" vertex="1" connectable="0">
+          <mxGeometry x="-0.0909" y="1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LwwBDkgkIhJa3WMhhJVJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LwwBDkgkIhJa3WMhhJVJ-2" target="LwwBDkgkIhJa3WMhhJVJ-6" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="LwwBDkgkIhJa3WMhhJVJ-24" value="是" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="LwwBDkgkIhJa3WMhhJVJ-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.0667" y="1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LwwBDkgkIhJa3WMhhJVJ-2" value="是否配置手机号码无需验证" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="260" y="230" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="LwwBDkgkIhJa3WMhhJVJ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LwwBDkgkIhJa3WMhhJVJ-4" target="LwwBDkgkIhJa3WMhhJVJ-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="500"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LwwBDkgkIhJa3WMhhJVJ-4" value="调用会员开户认证接口" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="470" y="230" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="iAgpnSeQ38nsZxshlyUb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LwwBDkgkIhJa3WMhhJVJ-6" target="iAgpnSeQ38nsZxshlyUb-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="LwwBDkgkIhJa3WMhhJVJ-6" value="调用绑定银行卡_个人接口" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="260" y="450" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="LwwBDkgkIhJa3WMhhJVJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LwwBDkgkIhJa3WMhhJVJ-8" target="LwwBDkgkIhJa3WMhhJVJ-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="790"/>
+              <mxPoint x="310" y="790"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LwwBDkgkIhJa3WMhhJVJ-8" value="调用确认绑定银行卡_个人接口" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="470" y="635" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="LwwBDkgkIhJa3WMhhJVJ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LwwBDkgkIhJa3WMhhJVJ-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="900" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LwwBDkgkIhJa3WMhhJVJ-16" value="是" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="LwwBDkgkIhJa3WMhhJVJ-14" vertex="1" connectable="0">
+          <mxGeometry x="-0.175" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qdpe9cmsCWd7SJbPGSpJ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LwwBDkgkIhJa3WMhhJVJ-10" target="Qdpe9cmsCWd7SJbPGSpJ-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Qdpe9cmsCWd7SJbPGSpJ-6" value="否" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="Qdpe9cmsCWd7SJbPGSpJ-2">
+          <mxGeometry x="-0.175" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LwwBDkgkIhJa3WMhhJVJ-10" value="是否配置会员开户是否需要审核" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="260" y="850" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="Qdpe9cmsCWd7SJbPGSpJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qdpe9cmsCWd7SJbPGSpJ-1" target="Qdpe9cmsCWd7SJbPGSpJ-3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Qdpe9cmsCWd7SJbPGSpJ-5" value="是" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="Qdpe9cmsCWd7SJbPGSpJ-4">
+          <mxGeometry x="-0.15" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qdpe9cmsCWd7SJbPGSpJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Qdpe9cmsCWd7SJbPGSpJ-1" target="LwwBDkgkIhJa3WMhhJVJ-19">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Qdpe9cmsCWd7SJbPGSpJ-9" value="否" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="Qdpe9cmsCWd7SJbPGSpJ-8">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qdpe9cmsCWd7SJbPGSpJ-1" value="是否配置需要进件" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1030" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="Qdpe9cmsCWd7SJbPGSpJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LwwBDkgkIhJa3WMhhJVJ-15" target="Qdpe9cmsCWd7SJbPGSpJ-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="1010"/>
+              <mxPoint x="310" y="1010"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LwwBDkgkIhJa3WMhhJVJ-15" value="运营人员在管理后台进行审核" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="440" y="850" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="LwwBDkgkIhJa3WMhhJVJ-19" value="等待接收个人开户结果通知" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="260" y="1230" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="Qdpe9cmsCWd7SJbPGSpJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.42;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Qdpe9cmsCWd7SJbPGSpJ-3" target="LwwBDkgkIhJa3WMhhJVJ-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="1272"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qdpe9cmsCWd7SJbPGSpJ-3" value="进件人员进行审核" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1030" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="iAgpnSeQ38nsZxshlyUb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iAgpnSeQ38nsZxshlyUb-1" target="LwwBDkgkIhJa3WMhhJVJ-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="iAgpnSeQ38nsZxshlyUb-4" value="否" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="iAgpnSeQ38nsZxshlyUb-3">
+          <mxGeometry x="-0.1636" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iAgpnSeQ38nsZxshlyUb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iAgpnSeQ38nsZxshlyUb-1" target="LwwBDkgkIhJa3WMhhJVJ-10">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="iAgpnSeQ38nsZxshlyUb-6" value="是" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="iAgpnSeQ38nsZxshlyUb-5">
+          <mxGeometry x="-0.4435" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iAgpnSeQ38nsZxshlyUb-1" value="是否三要素绑卡" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="260" y="635" width="100" height="100" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="afDi7HYOYn75Juvx1Z-a" name="企业会员">
+    <mxGraphModel dx="1172" dy="1769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-0"/>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-1" parent="NxBSOYPzbR3oFhZ4Jm8O-0"/>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="NxBSOYPzbR3oFhZ4Jm8O-1" source="NxBSOYPzbR3oFhZ4Jm8O-3" target="NxBSOYPzbR3oFhZ4Jm8O-8" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-3" value="调用企业会员开户接口" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="NxBSOYPzbR3oFhZ4Jm8O-1" vertex="1">
+          <mxGeometry x="300" y="-100" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="NxBSOYPzbR3oFhZ4Jm8O-1" source="NxBSOYPzbR3oFhZ4Jm8O-8" target="NxBSOYPzbR3oFhZ4Jm8O-10" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-5" value="否" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="NxBSOYPzbR3oFhZ4Jm8O-4" vertex="1" connectable="0">
+          <mxGeometry x="-0.0909" y="1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="NxBSOYPzbR3oFhZ4Jm8O-1" source="NxBSOYPzbR3oFhZ4Jm8O-8" target="NxBSOYPzbR3oFhZ4Jm8O-24" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-27" value="是" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="NxBSOYPzbR3oFhZ4Jm8O-25" vertex="1" connectable="0">
+          <mxGeometry x="-0.25" y="1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-8" value="是否配置手机号码无需验证" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="NxBSOYPzbR3oFhZ4Jm8O-1" vertex="1">
+          <mxGeometry x="300" y="90" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="NxBSOYPzbR3oFhZ4Jm8O-1" source="NxBSOYPzbR3oFhZ4Jm8O-24" target="NxBSOYPzbR3oFhZ4Jm8O-12" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-31" value="否" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="NxBSOYPzbR3oFhZ4Jm8O-26" vertex="1" connectable="0">
+          <mxGeometry x="-0.04" y="1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="NxBSOYPzbR3oFhZ4Jm8O-1" source="NxBSOYPzbR3oFhZ4Jm8O-24" target="NxBSOYPzbR3oFhZ4Jm8O-28" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-30" value="是" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="NxBSOYPzbR3oFhZ4Jm8O-29" vertex="1" connectable="0">
+          <mxGeometry x="-0.02" y="1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-24" value="是否是对公绑卡" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="NxBSOYPzbR3oFhZ4Jm8O-1" vertex="1">
+          <mxGeometry x="300" y="270" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="NxBSOYPzbR3oFhZ4Jm8O-1" source="NxBSOYPzbR3oFhZ4Jm8O-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="250"/>
+              <mxPoint x="350" y="250"/>
+            </Array>
+            <mxPoint x="350" y="250" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-10" value="调用会员开户认证接口" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="NxBSOYPzbR3oFhZ4Jm8O-1" vertex="1">
+          <mxGeometry x="510" y="90" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="NxBSOYPzbR3oFhZ4Jm8O-1" source="NxBSOYPzbR3oFhZ4Jm8O-12" target="NxBSOYPzbR3oFhZ4Jm8O-14" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-12" value="调用绑定银行卡_个人接口" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="NxBSOYPzbR3oFhZ4Jm8O-1" vertex="1">
+          <mxGeometry x="100" y="270" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="NxBSOYPzbR3oFhZ4Jm8O-1" source="NxBSOYPzbR3oFhZ4Jm8O-14" target="NxBSOYPzbR3oFhZ4Jm8O-19" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-14" value="调用确认绑定银行卡_个人接口" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="NxBSOYPzbR3oFhZ4Jm8O-1" vertex="1">
+          <mxGeometry x="100" y="490" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="NxBSOYPzbR3oFhZ4Jm8O-1" source="NxBSOYPzbR3oFhZ4Jm8O-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="650" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-16" value="是" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="NxBSOYPzbR3oFhZ4Jm8O-15" vertex="1" connectable="0">
+          <mxGeometry x="-0.175" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="NxBSOYPzbR3oFhZ4Jm8O-1" source="NxBSOYPzbR3oFhZ4Jm8O-19" target="NxBSOYPzbR3oFhZ4Jm8O-22" edge="1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-18" value="否" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="NxBSOYPzbR3oFhZ4Jm8O-17" vertex="1" connectable="0">
+          <mxGeometry x="-0.1515" y="1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-19" value="是否配置会员开户是否需要审核" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="NxBSOYPzbR3oFhZ4Jm8O-1" vertex="1">
+          <mxGeometry x="290" y="600" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="NxBSOYPzbR3oFhZ4Jm8O-1" source="NxBSOYPzbR3oFhZ4Jm8O-21" target="NxBSOYPzbR3oFhZ4Jm8O-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="849"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-21" value="运营人员在管理后台进行审核" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="NxBSOYPzbR3oFhZ4Jm8O-1" vertex="1">
+          <mxGeometry x="470" y="600" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-22" value="等待接收企业开户结果通知" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="NxBSOYPzbR3oFhZ4Jm8O-1" vertex="1">
+          <mxGeometry x="290" y="799" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="NxBSOYPzbR3oFhZ4Jm8O-1" source="NxBSOYPzbR3oFhZ4Jm8O-28" target="NxBSOYPzbR3oFhZ4Jm8O-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="450" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="550" y="540"/>
+              <mxPoint x="340" y="540"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NxBSOYPzbR3oFhZ4Jm8O-28" value="调用首笔支付认证_企业接口" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="NxBSOYPzbR3oFhZ4Jm8O-1" vertex="1">
+          <mxGeometry x="500" y="270" width="100" height="100" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jgGajqSOHff6ggjkDKV2" name="个体工商户">
+    <mxGraphModel dx="1172" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-0"/>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-1" parent="SpXOcvaZbP8VH0NsQFtL-0"/>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="SpXOcvaZbP8VH0NsQFtL-1" source="SpXOcvaZbP8VH0NsQFtL-3" target="SpXOcvaZbP8VH0NsQFtL-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-3" value="调用个体工商户会员开户接口" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="SpXOcvaZbP8VH0NsQFtL-1">
+          <mxGeometry x="345" y="20" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SpXOcvaZbP8VH0NsQFtL-1" source="SpXOcvaZbP8VH0NsQFtL-8" target="SpXOcvaZbP8VH0NsQFtL-15">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-5" value="否" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="SpXOcvaZbP8VH0NsQFtL-4">
+          <mxGeometry x="-0.0909" y="1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SpXOcvaZbP8VH0NsQFtL-1" source="SpXOcvaZbP8VH0NsQFtL-8" target="SpXOcvaZbP8VH0NsQFtL-13">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-7" value="是" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="SpXOcvaZbP8VH0NsQFtL-6">
+          <mxGeometry x="-0.25" y="1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-8" value="是否配置手机号码无需验证" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="SpXOcvaZbP8VH0NsQFtL-1">
+          <mxGeometry x="345" y="210" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SpXOcvaZbP8VH0NsQFtL-1" source="SpXOcvaZbP8VH0NsQFtL-13" target="SpXOcvaZbP8VH0NsQFtL-17">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-10" value="否" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="SpXOcvaZbP8VH0NsQFtL-9">
+          <mxGeometry x="-0.04" y="1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SpXOcvaZbP8VH0NsQFtL-1" source="SpXOcvaZbP8VH0NsQFtL-13" target="SpXOcvaZbP8VH0NsQFtL-29">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-12" value="是" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="SpXOcvaZbP8VH0NsQFtL-11">
+          <mxGeometry x="-0.02" y="1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-13" value="是否是对公绑卡" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="SpXOcvaZbP8VH0NsQFtL-1">
+          <mxGeometry x="345" y="390" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SpXOcvaZbP8VH0NsQFtL-1" source="SpXOcvaZbP8VH0NsQFtL-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="605" y="370"/>
+              <mxPoint x="395" y="370"/>
+            </Array>
+            <mxPoint x="395" y="370" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-15" value="调用会员开户认证接口" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="SpXOcvaZbP8VH0NsQFtL-1">
+          <mxGeometry x="555" y="210" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SpXOcvaZbP8VH0NsQFtL-1" source="SpXOcvaZbP8VH0NsQFtL-17" target="SpXOcvaZbP8VH0NsQFtL-19">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-17" value="调用绑定银行卡_个人接口" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="SpXOcvaZbP8VH0NsQFtL-1">
+          <mxGeometry x="145" y="390" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SpXOcvaZbP8VH0NsQFtL-1" source="SpXOcvaZbP8VH0NsQFtL-19" target="SpXOcvaZbP8VH0NsQFtL-24">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-19" value="调用确认绑定银行卡_个人接口" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="SpXOcvaZbP8VH0NsQFtL-1">
+          <mxGeometry x="145" y="610" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SpXOcvaZbP8VH0NsQFtL-1" source="SpXOcvaZbP8VH0NsQFtL-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515" y="770" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-21" value="是" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="SpXOcvaZbP8VH0NsQFtL-20">
+          <mxGeometry x="-0.175" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="SpXOcvaZbP8VH0NsQFtL-1" source="SpXOcvaZbP8VH0NsQFtL-24" target="SpXOcvaZbP8VH0NsQFtL-27">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-23" value="否" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="SpXOcvaZbP8VH0NsQFtL-22">
+          <mxGeometry x="-0.1515" y="1" relative="1" as="geometry">
+            <mxPoint as="offset"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-24" value="是否配置会员开户是否需要审核" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="SpXOcvaZbP8VH0NsQFtL-1">
+          <mxGeometry x="335" y="720" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="SpXOcvaZbP8VH0NsQFtL-1" source="SpXOcvaZbP8VH0NsQFtL-26" target="SpXOcvaZbP8VH0NsQFtL-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="565" y="969"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-26" value="运营人员在管理后台进行审核" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="SpXOcvaZbP8VH0NsQFtL-1">
+          <mxGeometry x="515" y="720" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-27" value="等待接收个体工商户开户结果通知" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="SpXOcvaZbP8VH0NsQFtL-1">
+          <mxGeometry x="335" y="919" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="SpXOcvaZbP8VH0NsQFtL-1" source="SpXOcvaZbP8VH0NsQFtL-29" target="SpXOcvaZbP8VH0NsQFtL-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="595" y="570" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="595" y="660"/>
+              <mxPoint x="385" y="660"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SpXOcvaZbP8VH0NsQFtL-29" value="调用首笔支付认证_企业接口" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="SpXOcvaZbP8VH0NsQFtL-1">
+          <mxGeometry x="545" y="500" width="100" height="100" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
